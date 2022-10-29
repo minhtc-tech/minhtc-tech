@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Tran Cao Minh</h1>
 <h3 align="center">A Software Engineer</h3>
 
-🔭 I’m currently working for SmartOSC
-👀 I’m interested in Coding
-🌱 I'm deep learning about JavaScript (Its libraries, frameworks, and more)
-📫 Email: minhtc.workspace@gmail.com
+- 🔭 I’m currently working for SmartOSC
+- 👀 I’m interested in Coding
+- 🌱 I'm deep learning about JavaScript (Its libraries, frameworks, and more)
+- 📫 Email: minhtc.workspace@gmail.com
 
 <!---
 minhtc-se/minhtc-se is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
