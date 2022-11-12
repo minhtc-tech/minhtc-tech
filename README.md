@@ -5,6 +5,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I'm deep learning about JavaScript (Its libraries, frameworks, and more)
 - 📫 Email: minhtc.workspace@gmail.com
+- 🍻 Find more about me: https://minhtc.tech/about
 
 <!---
 minhtc-se/minhtc-se is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
