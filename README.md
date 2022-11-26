@@ -4,7 +4,7 @@
 - 🔭 I’m currently working for SmartOSC
 - 👀 I’m interested in Coding
 - 🌱 I'm deep learning about JavaScript (Its libraries, frameworks, and more)
-- 📫 Email: minhtc.workspace@gmail.com
+- 📫 Email: minhtc.tech@gmail.com
 - 🍻 Find more about me: https://minhtc.tech/about
 
 <!---
