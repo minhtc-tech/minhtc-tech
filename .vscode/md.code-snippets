@@ -1,0 +1,8 @@
+{
+  "Tech Item": {
+    "prefix": "ti",
+    "body": [
+      "![$1](https://img.shields.io/badge/-$1-000?style=for-the-badge&logo=$2&logoColor=fff)"
+    ]
+  }
+}
