@@ -1,5 +1,5 @@
-<h1 align="center" style="padding: 48px 0;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Minh</h1>
-<h3 align="center">A Software Engineer especially loves JavaScript</h3>
+<h1 align="center" style="padding: 48px 0;">Nice to meet you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Minh</h1>
+<h3 align="center">A productive TypeScript Software Engineer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=630&height=60&lines=Make+the+best+UI%2FUX+experience+with+React;Creating+mobile+applications+with+React+Native;Manage+scalable+APIs+using+NodeJS" alt="Typing SVG" />
