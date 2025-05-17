@@ -6,7 +6,7 @@
 </p>
 
 <p align="center" style="padding-bottom: 36px">
-  <img alt="Minh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=minhtc-tech&theme=shades-of-purple&border_radius=8" />
+  <img alt="Minh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=minhtc-tech&theme=github-light&border_radius=8" />
 </p>
 
 ## 🛠 &nbsp;Main Tech Stacks
