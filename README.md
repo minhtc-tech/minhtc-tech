@@ -38,41 +38,17 @@
 
 <div style="width: 100%; height: 4px;"></div>
 
-## 📰 &nbsp;Recent Posts
-
-<div style='display: flex; gap: 8px;'>
-<a href="https://blog.minhtc.tech/from-development-to-production-deploying-nextjs-on-vercel">
-  <img width="270px" 
-    src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689926520162/54a911bd-520f-41d7-8f6c-95e35ecdb6c8.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp"
-    alt="Blog Cover" 
-  />
-</a>
-
-<a href="https://blog.minhtc.tech/nextjs-ssg-vs-ssr-choosing-the-right-rendering-method-for-your-project">
-  <img width="270px" 
-    src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689925768669/baf43850-4a61-4ca6-b2a7-4d87cd633b15.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp"
-    alt="Blog Cover"
-  />
-</a>
-
-<a href="https://blog.minhtc.tech/optimizing-seo-with-nextjs-ssg-a-complete-guide">
-  <img width="270px" 
-    src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689925195868/5ee73f4b-9837-4a2c-8566-8a994f13bd1b.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp"
-    alt="Blog Cover"
-  />
-</a>
-</div>
-
-<div style="width: 100%; height: 12px;"></div>
-
 ## 🤝🏻 &nbsp;Connect
 
 <p>
   📧 &nbsp;<a href="mailto:minhtc.tech@gmail.com">minhtc.tech@gmail.com</a>
 </p>
 <p>
-  🌐 &nbsp;<a href="https://minhtc.tech/">minhtc.tech</a>
+  🌐 &nbsp;<a href="https://minhtc.tech">minhtc.tech</a>
 </p>
 <p>
-  🧑‍💻 &nbsp;<a href="https://www.linkedin.com/in/minhtc-tech/">linkedin.com/in/minhtc-tech</a>
+  🧑‍💻 &nbsp;<a href="https://www.linkedin.com/in/minhtc-tech">linkedin.com/in/minhtc-tech</a>
+</p>
+<p>
+  🎥 &nbsp;<a href="https://www.youtube.com/@minhtc-tech">youtube.com/@minhtc.tech</a>
 </p>
